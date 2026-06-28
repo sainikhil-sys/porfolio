@@ -1,5 +1,5 @@
 # Sai Nikhil — Portfolio<br>
-url: https://sn-portfolioo.netlify.app/
+url:https://www.sainikhil.me/
 
 Personal portfolio site built with Vite, React, TypeScript, Tailwind CSS, and shadcn/ui.
 
